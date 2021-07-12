@@ -2,7 +2,7 @@
 
 Here, I have tried to live stream my camera feed by generating frames from the video captured.Then I encoded them before converting it into bytes.And finally looped over all the frames to generate video feed. <br>
 
-![](livestream.gif)
+![](livevideo.gif)
 
 ## Installation
 Install the required packages using pip. <br>
